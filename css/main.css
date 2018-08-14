@@ -1,0 +1,41 @@
+body{
+    margine:60px auto;
+    width:70%
+ }
+ nav ul,footer ul{
+  font-family:'helvetica','arial';'sans-serift';
+  padding:Opx;
+  list-style:none;
+  font-weight:bold;
+ }
+ nav ul li ,footer ul li{
+    display:inline;
+    margin-right:20px;;
+ }
+  a{
+    text-decoration:none;
+    color:#999;
+    }
+ a:hover{
+    text-decoration:ubderline;
+    }
+ h1{
+    font-size:3em;
+    font-family:'helvetica','arial';'sans-serift';
+   }
+ p{
+    font-size:1.5em;
+    line-height:1.4em;
+    color:#333;
+   } 
+  footer{
+      border-top:1px solid #d5d5d5;
+       font-size:.8em;
+      }
+   ul.post{
+      margine:20px auto 40px;
+      font-size:105em;
+    }
+    ul.post li{
+      list-style;none;
+     }
